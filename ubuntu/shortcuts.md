@@ -6,6 +6,7 @@
 - apps
 	- switch apps
 		```home + tab```
+	- search	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mjg5MTYxOF19
+eyJoaXN0b3J5IjpbLTU5OTMxMTE2N119
 -->
